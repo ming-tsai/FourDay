@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FourDay</string>
+    <string name="my_text_view">My TextView</string>
+    <string name="my_image_view">My ImageView</string>
+    <string name="label_show">Show</string>
+    <string name="my_edit_text">My EditText</string>
+    <string name="label_auto_complete_text_view">My AutoCompleteTextView</string>
+    <string name="my_button">My Button</string>
+    <string name="click_me">Click Me!</string>
+    <string name="my_image_button">My ImageButton</string>
+    <string name="my_check_box">My CheckBox</string>
+    <string name="check_status">Check Status</string>
+    <string name="my_toggle_button">My ToggleButton</string>
+    <string name="clear_my_radio_button">Clear my radio button</string>
+    <string name="my_radio_button">My RadioButton</string>
+    <string name="my_radio_button_group">My RadioButtonGroup</string>
+    <string name="my_progressbar">My ProgressBar</string>
+    <string name="my_spinner">My Spinner</string>
+    <string name="my_time_picker">My time picker</string>
+    <string name="my_date_picker">My Date Picker</string>
+    <string name="set_time">Set time</string>
+    <string name="set_date">Set date</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="time_format">hh:mm</string>
+    <string name="date_time_format">dd/mm/yyyy hh:mm</string>
+    <string name="my_date_and_time_dialog">My Date and Time Dialog</string>
+    <string name="pass_data">Pass Data</string>
+</resources>
